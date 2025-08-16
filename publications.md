@@ -28,6 +28,6 @@ title: Publications
 ## Degree Thesis
 
 
-  <br>
+<br>
 
 <br>

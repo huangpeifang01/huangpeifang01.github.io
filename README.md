@@ -10,7 +10,7 @@ This is the repository for my personal website.
 
 - **Sep 2025:** 
 - **Aug. 2025:** My personal website have been implemented in [huangpeifang01.github.io](https://huangpeifang01.github.io/)
-- **Aug. 2025:** This Github Page have been built based on [Jason Ansel's site](https://github.com/jansel/jansel.github.io) and [caihanlin.com](https://caihanlin.com).
+- **Aug. 2025:** This Github Page have been built based on [caihanlin.com](https://caihanlin.com) and [Jason Ansel's site](https://github.com/jansel/jansel.github.io).
 
 ## Star History
 

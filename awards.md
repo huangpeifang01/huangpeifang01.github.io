@@ -18,8 +18,6 @@ title: Awards
 - Jan 2024：
 - Aug 2023：**Best Technology Award**  (Top 1%)
 - Aug 2023：
-- May 2023：
-- Nov 2022：
-- June 2022：
+
 
 <br>

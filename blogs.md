@@ -10,34 +10,27 @@ title: Blogs
 
 - [（更新中）](https://)<br>
 - [（更新中）](https://)<br>
+- [xx年  参会实录](https://)<br>
 
-### 2024
-
-- [xx岁，站在人生的交叉路口<br>](https://)
-- [AAAI xx年 温哥华参会实录](https://)<br>
-- [XXXX](https://)<br>
 
 ### 2023
 
-- [xxx岁，何妨吟啸且徐行](https://)<br>
-- [xx](https://)<br>
+- 
 - [🔥 极简风Jekyll个人网站搭建指南](https://)<br>
-- [xx](https://)<br>
 
 ### 2022
 
-- [xx岁，宽心且看月中桂](https://)<br>
-- [暂停、暂停、暂停](https://)
+- [（更新中）](https://)<br>
+- [（更新中）](https://)<br>
 
 ### 2021
 
-- [xx岁，山高路亦远](https://)<br>
-- [xxx实习回忆录](https://)
+- 
+- [回忆录](https://)
 
 ### 2020
 
-- [xx岁，缓慢受锤的黄金年代](https://)<br>
-- [博客，笔记，回忆录（现已停止运营）](https://)
+- [博客，笔记，回忆录](https://)
 
 <br>
 
@@ -45,7 +38,6 @@ title: Blogs
 
 <br>
 
-{% include disqus.html %} 
 
 <br>
 

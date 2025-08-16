@@ -8,7 +8,7 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Swimming & Surfing & Travelling
 
 
 ## Workshop

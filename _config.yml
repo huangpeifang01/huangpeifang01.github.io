@@ -15,9 +15,9 @@ url: https://huangpeifang01.github.io/
 # --------------------------------------------------
 owner:
   name: Peifang Huang 
-  avatar: peifang.jpg
+  avatar: peifang1.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
+  email: huangpeifang01@gmail.com
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   cv: https://huangpeifang01.github.io/file/CV-PeifangHunag.pdf
 
@@ -39,7 +39,8 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: 
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
@@ -66,7 +67,7 @@ links:
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
 # --------------------------------------------------
-timezone: Asia/Shanghai          # IANA time-zone ID (China/Beijing is invalid)
+timezone: Asia/Hangzhou          # IANA time-zone ID (China/Beijing is invalid)
 future: true                     # Render posts dated in the future
 highlighter: rouge               # Code highlighter; Rouge is default in MM
 # markdown: kramdown             # Jekyll default; uncomment to force
@@ -101,7 +102,7 @@ kramdown:
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
 disqus:
-  shortname: lancecai
+  shortname: AriaHuang
 
 
 # include: [".htaccess"]
