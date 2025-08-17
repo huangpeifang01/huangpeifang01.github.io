@@ -5,6 +5,8 @@ title: 主页中文版
 ---
 
 ## 关于我
+---
+
 
 <img src="https://huangpeifang01.github.io/huangpeifang.jpg" class="floatpic">
 
@@ -53,4 +55,7 @@ title: 主页中文版
 >
 >一切，都在意料之中。
 >
+
+
+---
 

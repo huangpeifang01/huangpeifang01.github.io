@@ -7,11 +7,13 @@ title: Hobbies
 
 
 ## Hobbies
+---
 
 ## Swimming & Surfing & Travelling
 - 
 - 
 - 
+---
 
 ## Workshop
 - 
@@ -19,6 +21,7 @@ title: Hobbies
 - 
 
 
+---
 
 ## Past Hobbies
 - 
@@ -26,7 +29,8 @@ title: Hobbies
 - 
 
 
-
+---
+s
 ## Chat with me
 - 
 - 
