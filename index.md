@@ -11,8 +11,18 @@ Here is **Peifang Huang (Aria, hpf)**.<br>
 
 I am a Ph.D. student in the State Key Lab of CAD&CG, Zhejiang University, China. I received my master degree from Northeastern University in 2023.<br>
 
+I'm a Ph.D. student in computer science at the State Key Lab of CAD&CG, 
+<img src="images/zju.png" alt="icon" style="height: 1em; vertical-align: middle;"> [Zhejiang University](https://www.zju.edu.cn/english/), 
+supervised by Prof. [Xinguo Liu](https://person.zju.edu.cn/en/xgliu).<br>
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **huangpeifang01@gmail.com**
+
+
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me.<br> 
+
+**Email**: huangpeifang [AT] zju.edu.cn, huangpeifang01@gmail.com<br> 
+
+**Address**: 866 Yuhangtang Road, Hangzhou, China, 310058<br>
+
 
 ---
 
