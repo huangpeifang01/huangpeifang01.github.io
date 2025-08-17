@@ -4,7 +4,9 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
+## Honors
+---
+
 
 - May 2025：
 - June 2024：
@@ -14,9 +16,10 @@ title: Awards
 
 
 
----
+
 
 ## Competitions
+---
 
 - 
 - 

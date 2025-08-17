@@ -10,28 +10,30 @@ title: Hobbies
 ---
 
 ## Swimming & Surfing & Travelling
-- 
-- 
-- 
 ---
+- 
+- 
+- 
 
 ## Workshop
-- 
-- 
-- 
-
-
 ---
+- 
+- 
+- 
+
+
+
 
 ## Past Hobbies
-- 
-- 
-- 
-
-
 ---
-s
+- 
+- 
+- 
+
+
+
 ## Chat with me
+---
 - 
 - 
 - 
