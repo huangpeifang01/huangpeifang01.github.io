@@ -4,5 +4,5 @@ permalink: /blogs/freshman/index.html
 title: Freshman
 ---
 
-## 写给大一新生
+## 写给可能需要的你，我的陌生朋友
 

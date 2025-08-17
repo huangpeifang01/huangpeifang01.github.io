@@ -10,7 +10,7 @@ Here is **Peifang Huang (Aria, hpf)**.<br>
 
 I am a Ph.D. student in the State Key Lab of CAD&CG, Zhejiang University, China. I received my master degree from Northeastern University in 2023.
 
-
+<br>
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **huangpeifang01@gmail.com**
 
 ---
