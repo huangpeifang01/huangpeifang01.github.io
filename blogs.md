@@ -46,7 +46,7 @@ title: Blogs
 - 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/huangpeifang01/huangpeifang01.github.io)留下一个Star吧！
 - [Leave a github star if you like it 🥰 Thank you so much!](https://github.com/huangpeifang01/huangpeifang01.github.io) 
 
-<br>[![Star History Chart](https://api.star-history.com/svg?repos=huangpeifang01/huangpeifang01.github.io&type=Date)](https://star-history.com/#huangpeifang01/huangpeifang01.github.io&Date)
+<br>[![Star History Chart](https://api.star-history.com/svg?repos=huangpeifang01/huangpeifang01.github.io&type=Date)](https://www.star-history.com/#huangpeifang01/huangpeifang01.github.io&Date)
 
 Finally, my WeChat account - xxxx
 
