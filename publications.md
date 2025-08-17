@@ -4,21 +4,25 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
-
-## Journal Paper
-- [（更新中）](https://)<br>
-- 
+> (†: equal contribution, *: corresponding author)
 
 
 ## Conference Paper
 
-- [（更新中）](https://)<br>
-- 
+- <br>
+
+- [Multi-Needle Particle Implantation Computer Assisted Surgery Based on Virtual Reality](https://ieeexplore.ieee.org/document/10108805)<br>Wenjun Tan*,Jinsong Wang,**Peifang Huang**, Guangqiang Yang, Qinghua Zhou <br> 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2023<br>
 ---
 
+
+## Journal Paper
+
+-  [Analysis of segmentation of lung parenchyma based on deep learning methods](https://doi.org/10.3233/XST-210956)<br>Wenjun Tan*, **Peifang Huang**, Xiaoshuo Li, Genqiang Ren, Yufei Chen*, Jinzhu Yang* <br> Journal of X-Ray Science and Technology, 2021 <br>
+---
+
+
 ## Early Project
-- [（更新中）](https://)<br>
+- <br>
 - 
 
 
@@ -27,7 +31,7 @@ title: Publications
 ---
 
 ## Degree Thesis
-- [（更新中）](https://)<br>
+- <br>
 - 
 
 <br>

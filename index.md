@@ -5,9 +5,9 @@ layout: page
 ## About Me
 
 <img src="huangpeifang.jpg" class="floatpic">
-  
-<br>
-Here is **Peifang Huang (Aria, hpf)**.<br>
+
+
+<br>Here is **Peifang Huang (Aria, hpf)**.<br>
 
 I am a Ph.D. student in the State Key Lab of CAD&CG, Zhejiang University, China. I received my master degree from Northeastern University in 2023.<br>
 
