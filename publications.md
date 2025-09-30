@@ -26,25 +26,4 @@ title: Publications
 
 <br>
 
-
-
-## Early Project
----
-
-- <br>
-- 
-
-
-
-
-
-
-## Degree Thesis
----
-
-- <br>
-- 
-
-<br>
-
 <br>
